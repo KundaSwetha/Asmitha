@@ -23,3 +23,5 @@ swetha.kunda@mml.local
 
 
 http://tweetapp-swetha.s3-website-us-west-2.amazonaws.com angular
+
+TweetApp-LoadBalancer-891638659.us-west-2.elb.amazonaws.com/swagger-ui/index.html spring boot
