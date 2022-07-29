@@ -20,3 +20,6 @@ swetha.kunda@mml.local
         }
     ]
 }
+
+
+http://tweetapp-swetha.s3-website-us-west-2.amazonaws.com angular
